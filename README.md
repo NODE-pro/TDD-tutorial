@@ -48,3 +48,12 @@ app.listen(port, () => console.log('Server Running...'));
 const request = require('supertest');
 const app = require('../../app');
 ```
+
+## Clone
+
+```
+$ git clone https://github.com/NODE-pro/TDD-tutorial.git
+$ cd TDD-tutorial
+$ npm install
+$ npm test
+```
